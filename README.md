@@ -3,6 +3,7 @@
 <p align="center">
 This repository contain a simple but beautiful Portfolio Template
 <br> The use of it is to help people edit and showcase their work online as they wish
+<br> The structure is also Responsive so it works on Mobile, Tablets, Laptops and Desktop
 <br> This structure was based on exclusive chalenge on Rocketseat plataform for Explorer studants.
 </p>
 
